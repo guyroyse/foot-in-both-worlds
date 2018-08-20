@@ -1,6 +1,6 @@
 # The AI Engineer: A Foot in Two Worlds
 
-Key points in talk:
+How developers learn things:
 
 A foot in both worlds:
   - QA Engineer
