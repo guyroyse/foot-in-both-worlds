@@ -11,9 +11,9 @@ describes the behavior of some process.
 
 An AI Engineer has a foot in each of these worlds.
 
-If you'd like to have a foot in both of these worlds, this talk will get you
-started. In it, I'll share what an AI Engineer is and isn't, steps you can take
-to begin your journey, and some common pitfalls to avoid. When we're done,
+If you'd like to have a foot in both of these worlds too, this talk will get
+you started. In it, I'll share what an AI Engineer is and isn't, steps you can
+take to begin your journey, and some common pitfalls to avoid. When we're done,
 you'll have a solid idea of exactly how you, as a developer, can fit into the
 world of data science, how to close the gaps to get there, and what you need to
 call yourself an AI Engineer.
