@@ -1,34 +1,82 @@
 # The AI Engineer: A Foot in Two Worlds
 
-How developers learn things:
+Intro
 
-A foot in both worlds:
-  - QA Engineer
-  - DevOps
-  - Developer Evangelism
-  - AI Engineer
+IANADS
+  - I am a developer on the path to AI Engineer
+  - Here's my story.
 
-Skills of a Developer:
-  - solve problems
-  - write and deploy code that doesn't suck
-  - mostly, you put and take data to and from screens
+I Wanna Be A Data Scientist
+  - why: $$$ or FEAR or Both!
 
-Skills of a Data Scientist:
+How to Be A Data Scientist
+  - area of study (so far so good)
+  - level of education (uhhh)
+  - big list of hard and long things to do (OMG)
+  - end result, you're a n00b
 
-Happy & Sad Data Scientists
-  - you want to know how to use the tools of machine learning, not be a data scientist
+Something more accessible? The developer admixture
+  - QA
+  - IT Ops
+  - Marketing
+  - Data Science
 
-Opportunities:
-  - so much need
-  - number of data scientists
-  - number of developers
-  - look at that ratio... you'll be ok career wise
-      - story about fears of offshoring
+You Have Skills that Data Scientist Don't
+  - (or at least would take them a while to acquire)
+  - you can: build apps, write clean code (with tests), manage deployed apps
 
-Steps to take to get started:
-  - if you're junior
-  - if you're senior
+Learn Some New Tools
+  - you already know this because you do it all the time
+  - many tools do the same thing
 
-Warnings:
-  - it's not just deep learning
-  - math matters, but not as much as you think
+Developers are Focused on How
+  - we know the what, figure out the how
+    - learning Flask and Python
+    - we understand HTTP, browsers, programing
+
+For ML, How Isn't Good Enough
+  - vague ideas, deep learning vs. AI vs. machine learning
+  - need to learn concepts first
+  - what does ML do?
+    - Regression
+    - Classification
+    - Clustering
+    - Forecasting
+    - Anomaly Detection
+
+Play
+  - a pet project
+  - an absurd application
+  - a silly solution
+
+Things I've Done
+  - Python via the Evercraft Kata
+  - Types of machine learning using D&D examples
+  - Impact of X-Files on Bigfoot Sightings via Nexosis API
+  - Bigfoot Classinator using DataRobot's NLP
+  - Classified Viking Runes using CNNs and Keras
+
+Explore
+  - no guided plan, just exploring the space
+  - more important to start than where to start
+  - once you start, you'll find the next thing to do
+
+Things On My List
+  - Implement D&D examples using sklearn
+  - D&D game predictor
+
+Goal
+  - learn python
+  - understand types of machine learning
+  - learn the Nexosis API
+  - learn DataRobot
+  - understand neural networks and CNNs
+  - learn the use of more algorithms & sklearn
+  - deploy ML into production
+
+Warning
+  - Dunning Kruger
+  - Imposter Syndrome
+
+Thanks!
+
